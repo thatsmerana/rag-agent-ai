@@ -1,0 +1,16 @@
+langchain>=0.1.12
+langchain-community>=0.0.28
+sentence-transformers==2.5.1
+chromadb==0.4.24
+flask==3.0.2
+flask-login==0.6.3
+flask-sqlalchemy==3.1.1
+PyPDF2==3.0.1
+python-docx==1.1.0
+python-dotenv==1.0.1
+transformers==4.38.2
+torch==2.2.1
+numpy==1.26.4
+pandas==2.2.1
+tqdm==4.66.2
+werkzeug==3.0.1 
